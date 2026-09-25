@@ -1,4 +1,4 @@
-# VUDO - Vegetazione Urbana Da Ortofoto
+# Vegetazione Urbana
 
 **Vegetation mapping from AGEA orthophotos: a reproducible geospatial pipeline for Italian municipalities**
 
