@@ -1,1 +1,2 @@
-# Here your RGBI file
+# Put here your RGBI file
+This is only a placeholder
