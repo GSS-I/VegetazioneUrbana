@@ -1,4 +1,4 @@
-# VUDO - Verde Urbano Da Ortofoto
+# Vegetazione Urbana
 
 **Vegetation mapping from AGEA orthophotos: a reproducible geospatial pipeline for Italian municipalities**
 
@@ -26,7 +26,7 @@
 
 ## 1. Introduction
 
-**VUDO** (Verde Urbano Da Ortofoto) is a geospatial data-processing pipeline that automatically maps urban vegetation from high-resolution aerial orthophotos. It takes RGBI (Red-Green-Blue-Infrared) orthophotos from AGEA—the Italian Agency for Agricultural Payments—and produces binary vegetation masks at the municipal scale, along with summary statistics on green cover and vegetation patch sizes.
+**VUDO** (Vegetazione Urbana Da Ortofoto) is a geospatial data-processing pipeline that automatically maps urban vegetation from high-resolution aerial orthophotos. It takes RGBI (Red-Green-Blue-Infrared) orthophotos from AGEA—the Italian Agency for Agricultural Payments—and produces binary vegetation masks at the municipal scale, along with summary statistics on green cover and vegetation patch sizes.
 
 The project is designed to be **city-agnostic** and **reproducible**: a single configuration block per notebook (municipality ISTAT code, index type, flight year) drives the entire workflow, and each step reads the output of the previous one. It is intended for urban planners, environmental researchers, and GIS analysts who need a transparent, code-driven alternative to manual vegetation digitization.
 

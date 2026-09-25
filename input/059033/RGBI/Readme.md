@@ -1,2 +1,2 @@
-# Here your RGBI file
-Note: delete this readme file in your local folder
+# Put here your RGBI file
+This is only a placeholder
